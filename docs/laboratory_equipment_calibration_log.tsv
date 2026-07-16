@@ -1,0 +1,6 @@
+Equip_ID	Device_Classification	Calibration_Specification	Last_Calibrated_Date	Calibration_Due_Date	Reference_Standard	Technician_Sign_Off
+GCMS-04	Agilent Gas Chromatograph Mass Spec	Headspace Volatile Detection Threshold (Linalool Basis)	01/05/2026	07/05/2026	NIST Traceable Standard Gas	RWM
+RT-PCR-01	Bio-Rad Real-Time PCR System	Pathogen Multiplex Amplification Verification	11/12/2025	05/12/2026	WHO Parasite Reference Panel	KPT
+ULT-FREEZ-02	Thermo Scientific -80C Freezer	Temperature Sensor Offset Validation	12/01/2025	12/01/2026	ISO 17025 Certified Probe	MWR
+BIO-LFC-03	Class II Biosafety Cabinet	Velocity & HEPA Filter Integrity Check	02/14/2026	02/14/2027	NSF/ANSI Standard 49	JHL
+LCMS-02	Waters Liquid Chromatograph Mass Spec	Plasma Carrier Lipoprotein Fractionation Mapping	01/08/2026	07/08/2026	USP Reference Standard Matrix	RWM
