@@ -1,0 +1,8 @@
+Region_ID	Continent_Macro	Primary_Qualifying_Pathogens	Vector_Species_Present	Regulatory_Justification_Reference
+R-AFR-01	Sub-Saharan Africa (Central/West)	Malaria (P. falciparum), Dengue, Chikungunya	Anopheles gambiae, Aedes aegypti	CDC Yellow Book / FDA Sec 524
+R-AFR-02	East Africa & Horn of Africa	Malaria, Dengue, Chikungunya, Yellow Fever	Anopheles arabiensis, Aedes aegypti	WHO Vector Alert Network
+R-AMR-01	Central America & Caribbean	Dengue, Zika, Chikungunya, Malaria	Aedes aegypti, Anopheles albimanus	CDC Dengue Continuous Risk Map
+R-AMR-02	South America (Amazonian Basin)	Malaria, Dengue, Zika, Yellow Fever	Anopheles darlingi, Aedes aegypti	WHO Sylvatic Transmission Data
+R-ASI-01	South Asia (Indian Subcontinent)	Dengue, Chikungunya, Malaria (P. vivax)	Aedes albopictus, Anopheles stephensi	NIH Neglected Tropical Disease Index
+R-ASI-02	Southeast Asia & Pacific Rim	Dengue, Chikungunya, Zika, Malaria	Aedes aegypti, Aedes albopictus	WHOPES Vector Competency Matrix
+R-OCE-01	Oceania & Melanesia	Dengue, Malaria, Zika Virus	Anopheles farauti, Aedes vectors	CDC Travel Health Notice Matrix
