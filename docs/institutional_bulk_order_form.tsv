@@ -1,0 +1,7 @@
+Order_Item_ID	Item_Classification	Product_Specification	Unit_Packaging	Minimum_Reorder_Qty	Target_Unit_Cost	Approved_Supplier_ID
+ORD-BOT-01	Raw Botanical Input	Standardized Linalool Monomer (>98.5% Pure)	10 kg Stainless Drum	2 Drums	$1,250.00	SUPP-VAPOR-09
+ORD-CAP-02	Bulk Encapsulated Pill	150mg Gastro-Resistant Botanical Capsule	1,000 Count Bulk Bottle	5 Bottles	$350.00	MFG-GELCAP-12
+ORD-LOD-03	Emergency Loading Unit	300mg Rapid-Release Post-Bite Dose	6-Capsule Blister Pack	50 Packs	$15.00	MFG-GELCAP-12
+ORD-SWB-04	Laboratory Assay Kit	Epidermal Headspace Volatile Collection Swab	100-Swab Box	3 Boxes	$85.00	LAB-ANALYT-44
+ORD-BIP-05	Clinical Extraction Set	2mm Disposable Sterile Punch Biopsy Kit	50-Unit Crate	2 Crates	$175.00	MED-SURG-88
+ORD-LOG-06	Cold-Chain Monitor	USB Continuous Cryo-Temperature Logger	10-Pack Box	1 Box	$120.00	LOG-SENSE-11
