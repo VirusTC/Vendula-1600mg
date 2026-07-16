@@ -1,0 +1,7 @@
+Sample_ID	Source_Patient_ID	Collection_Timestamp	Matrix_Type	Storage_Temp_C	Shipped_To_Lab_Date	Courier_Tracking_ID
+SMP-8801	P-AFR-012	2026-01-12T08:30:00Z	Epidermal Sweat Swab (Filter Paper)	-20C	01/13/2026	FEDEX-EXP-99011
+SMP-8802	P-AMR-045	2026-01-14T14:15:00Z	Bite Micro-Zone Skin Biopsy (2mm)	-80C	01/15/2026	DHL-MED-44092
+SMP-8803	P-ASI-089	2026-01-15T09:00:00Z	Epidermal Sweat Swab (Filter Paper)	-20C	01/16/2026	FEDEX-EXP-99022
+SMP-8804	P-AFR-012	2026-01-19T08:30:00Z	Systemic Whole Blood (EDTA Tube)	4C	01/20/2026	FEDEX-EXP-99033
+SMP-8805	P-OCE-003	2026-01-22T11:45:00Z	Bite Micro-Zone Skin Biopsy (2mm)	-80C	01/23/2026	DHL-MED-44105
+SMP-8806	P-ASI-022	2026-01-29T10:00:00Z	Epidermal Sweat Swab (Filter Paper)	-20C	01/30/2026	FEDEX-EXP-99044
