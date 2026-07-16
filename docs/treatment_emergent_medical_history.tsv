@@ -1,0 +1,8 @@
+History_ID	Subject_ID_Code	Concurrent_Condition	Baseline_Medication	Potential_CYP_Interaction	Protocol_Impact_Status	Reviewing_MD_Initials
+HX-5501	P-AFR-012	Seasonal Allergic Rhinitis	Cetirizine 10mg PO QD	None Expected	Cleared for Study Entry	ART
+HX-5502	P-AMR-045	Chronic Plaque Psoriasis	Topical Hydrocortisone 1%	Low (Local Dermal Matrix Only)	Exclusion Criteria Met (Withdrawn)	ER
+HX-5503	P-ASI-089	Mild Essential Hypertension	Lisinopril 10mg PO QD	None Expected	Cleared for Study Entry	ART
+HX-5504	P-AFR-019	History of Malaria Vivax (2024)	None Active	N/A	Cleared (PCR Confirmed Negative)	ART
+HX-5505	P-OCE-003	Type II Diabetes Mellitus	Metformin 500mg PO BID	None Expected	Cleared for Study Entry	MV
+HX-5506	P-AMR-011	Recurrent Tension Headaches	Acetaminophen 500mg PRN	Minimal (Monitor Hepatic Clearance)	Cleared for Study Entry	ER
+HX-5507	P-ASI-022	Hypercholesterolemia	Atorvastatin 20mg PO QHS	Moderate (Monitor Plasma Kinetics)	Cleared with Monthly LFT Check	MV
