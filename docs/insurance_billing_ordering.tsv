@@ -1,0 +1,7 @@
+Code_ID	System_Type	Code_Format	Description_Specification	Regulatory_Justification
+ICD-10-Z29.8	Insurance / Diagnostic	Z29.8	Encounter for other specified prophylactic measures (Systemic Vector-Prophylaxis)	Required for patient chart classification in high-burden zones
+CPT-82542	Billing / Laboratory	82542	Column chromatography/mass spectrometry (Liquid chromatography-tandem mass spectrometry for sweat monomer clearance)	Tracks compliance and sweat partition coefficients
+CPT-99213	Billing / Clinical	99213	Outpatient physician evaluation and management visit (15-29 minutes)	Standard monitoring for Expanded Access cohort assessment
+HCPCS-S9445	Insurance / Reimbursement	S9445	Patient education, non-physician provider, typically multidisciplinary (Vector avoidance compliance training)	Covers institutional overhead for field deployment instruction
+NDC-89912-045-30	Ordering / Inventory	89912-045-30	Oral Systemic Botanical Monomer (150mg capsule, 30-count bottle)	Standard product tracking identifier for pharmacies
+REQS-EXP-01	Ordering / Regulatory	Form FDA 3926	Individual Patient Expanded Access Investigational New Drug Application	Required to release stock for non-prophylactic emergency bites
