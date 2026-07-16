@@ -10,3 +10,7 @@ Physicians must counsel patients that plasma concentration directly correlates w
 
 ## 2. Clinical Monitoring & Biomarker Verification
 Physicians tracking patients under Expanded Access or IRB protocols should monitor the localized bite zone for pathological tissue remodeling. 
+
+## 3. Contraindications & Drug-Drug Interactions
+* Avoid co-administration with strong CYP3A4 inhibitors, which may spike systemic plasma levels beyond targeted sweat excretion kinetic models.
+* Monitor patients with pre-existing hepatic insufficiency; slower clearance rates may prolong the excretion window but require a 50% reduction in daily maintenance dosing.
