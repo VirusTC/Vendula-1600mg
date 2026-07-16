@@ -1,0 +1,8 @@
+Transaction_ID	Patient_ID_Code	Dispense_Date	Dispense_Type	Quantity_Capsules	Lot_Batch_Number	Pharmacist_Initials
+TX-1001	P-AFR-012	01/12/2026	Standard Maintenance Prophylaxis	30	LOT-LNL-2025-09A	MWR
+TX-1002	P-AMR-045	01/14/2026	Emergency Post-Bite Loading Pack	6	LOT-LNL-2025-11B	JHL
+TX-1003	P-ASI-089	01/15/2026	Standard Maintenance Prophylaxis	30	LOT-LNL-2025-09A	MWR
+TX-1004	P-AFR-019	01/18/2026	Standard Maintenance Prophylaxis	90	LOT-LNL-2025-12C	KPT
+TX-1005	P-OCE-003	01/22/2026	Emergency Post-Bite Loading Pack	6	LOT-LNL-2025-11B	JHL
+TX-1006	P-AMR-011	01/25/2026	Standard Maintenance Prophylaxis	30	LOT-LNL-2025-09A	MWR
+TX-1007	P-ASI-022	01/29/2026	Standard Maintenance Prophylaxis	30	LOT-LNL-2025-12C	KPT
