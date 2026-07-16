@@ -1,0 +1,5 @@
+Site_Facility_ID	Geographic_Vector_Zone	IRB_Registration_Number	Cold_Chain_Storage_Rating	Emergency_Medical_Backing	Auditor_Sign_Off_Status	Next_Audit_Due_Date
+S-ZONE-WEST-01	Sub-Saharan Africa (Rural Coastal)	IRB-ORG-000412	-20C and -80C Compliant (Solar Backup)	Level 1 Field Hospital Attached	APPROVED	01/15/2027
+S-ZONE-AMZ-04	Amazon Basin (Interior Outpost)	IRB-ORG-000911	-20C Compliant Only (Liquid N2 Dewars)	Regional Clinic (4hr Evac Window)	PROVISIONAL	10/10/2026
+S-ZONE-SEA-02	Southeast Asia (Urban/Peri-Urban)	IRB-ORG-000255	Fully Redundant Mechanical -80C	Metropolitan University Medical Center	APPROVED	02/20/2027
+S-ZONE-GULF-05	US Gulf Coast (Mobile Field Unit)	IRB-ORG-001088	Portable 12V Active Cryo-Coolers	County Health Emergency Services	APPROVED	11/01/2026
