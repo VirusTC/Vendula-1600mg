@@ -1,0 +1,8 @@
+Disbursement_ID	Patient_ID_Code	Milestone_Completed	Disbursement_Type	Amount_USD	Authorization_Reference	Date_Processed
+DISB-7701	P-AFR-012	Baseline Enrollment & Initial Samples	Pre-paid Debit Card	$50.00	IRB-COMP-VVP-01	01/12/2026
+DISB-7702	P-AMR-045	Week 2 Follow-Up & Biopsy Collection	Electronic Transfer	$150.00	IRB-COMP-VVP-02	01/14/2026
+DISB-7703	P-ASI-089	Baseline Enrollment & Initial Samples	Pre-paid Debit Card	$50.00	IRB-COMP-VVP-01	01/15/2026
+DISB-7704	P-AFR-012	Week 1 Follow-Up & Sweat GC Swab	Pre-paid Debit Card	$25.00	IRB-COMP-VVP-01	01/19/2026
+DISB-7705	P-OCE-003	Week 2 Follow-Up & Biopsy Collection	Electronic Transfer	$150.00	IRB-COMP-VVP-02	01/22/2026
+DISB-7706	P-AMR-011	Baseline Enrollment & Initial Samples	Electronic Transfer	$50.00	IRB-COMP-VVP-01	01/25/2026
+DISB-7707	P-ASI-022	Baseline Enrollment & Initial Samples	Pre-paid Debit Card	$50.00	IRB-COMP-VVP-01	01/29/2026
