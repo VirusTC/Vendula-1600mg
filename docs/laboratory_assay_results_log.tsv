@@ -1,0 +1,7 @@
+Assay_Run_ID	Sample_Barcode	Analysis_Timestamp	Monomer_Sweat_Flux_ug_cm2_hr	Caspase3_Bcl2_Ratio	NF_kB_Nuclear_Exclusion_pct	Pathogen_PCR_Status
+RUN-9901	SMP-8801	2026-01-13T14:22:00Z	1.88	N/A (Sweat Only)	N/A (Sweat Only)	N/A (Prophylactic)
+RUN-9902	SMP-8802	2026-01-16T09:15:00Z	N/A (Biopsy Only)	3.45	82.4%	Negative (Dengue/Zika)
+RUN-9903	SMP-8803	2026-01-16T10:45:00Z	2.14	N/A (Sweat Only)	N/A (Sweat Only)	N/A (Prophylactic)
+RUN-9904	SMP-8804	2026-01-21T11:00:00Z	0.45 (Plasma Base)	N/A (Blood Only)	N/A (Blood Only)	Negative (Malaria)
+RUN-9905	SMP-8805	2026-01-24T15:30:00Z	N/A (Biopsy Only)	1.12	44.1%	Positive (Plasmodium vivax)
+RUN-9906	SMP-8806	2026-02-01T08:12:00Z	1.95	N/A (Sweat Only)	N/A (Sweat Only)	N/A (Prophylactic)
