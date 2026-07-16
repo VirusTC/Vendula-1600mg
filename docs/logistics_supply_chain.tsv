@@ -1,0 +1,7 @@
+Logistics_Step	Action_Item	Quality_Control_Metric	Documentation_Requirement	Sourcing_Standard
+L-001	Botanical Extraction & Standardization	Verify monoterpene purity matrix > 98.5% via Gas Chromatography	Certificate of Analysis (CoA)	USP-NF Botanical Monograph
+L-002	Bulk Encapsulation & Packaging	Moisture-controlled lipophilic barrier sealing to prevent premature volatilization	Batch Production Record (BPR)	FDA Current Good Manufacturing Practice (cGMP)
+L-003	Cold-Chain / Environmental Storage	Maintain storage temperatures between 15°C and 25°C; avoid high thermal degradation	Continuous Temperature Data Logger Log	WHO Good Storage & Distribution Practices
+L-004	International Field Dispatch	Customs clearance using institutional humanitarian/research waivers	Commercial Invoice / IRB Protocol Approval Letter	International Air Transport Association (IATA)
+L-005	Institutional Intake & Inventory	Log bottle unique serial identifiers into pharmacy dispense matrices	Chain of Custody / Dispensing Ledger	FDA Track and Trace (DSCSA Framework)
+L-006	Field Distribution & Reconciliation	Match dispensed counts against signed Patient Informed Consent Forms (ICFs)	Monthly Multi-Variable Inventory Reconciliation TSV	Office for Human Research Protections (OHRP)
